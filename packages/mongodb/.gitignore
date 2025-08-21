@@ -5,5 +5,5 @@
 *.ali
 
 node_modules
-# utils/db_variable.json
+utils/db_variable.json
 .DS_Store
