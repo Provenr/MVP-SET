@@ -1,0 +1,16 @@
+{
+  "name": "monngdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test/test_simple.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mongodb": "5.1",
+    "mongoose": "7"
+  }
+}
