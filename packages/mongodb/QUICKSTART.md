@@ -80,13 +80,7 @@ const collections = await db.listCollections().toArray();
 数据库配置在 `utils/db_variable.json` 中：
 
 ```json
-{
-  "host": "10.171.0.220",
-  "port": "8635",
-  "username": "yeepay",
-  "password": "ME8+gA3EJoZg1JLaLC0jEg==",
-  "newDbUrl": "rS5zkXbEyR9bcyRvmOnRxK/tYERWnLX7zAGLufjKrHemiJxU0YTSGsDNr71BzdHbTnl+Q8mzzegkSuQrRC4LJZ9do4ZQBze5+/Go8BMFaVNr0825HFfQx8fJyp5eco+KsLVqDKusWTbB/88SM1TACw=="
-}
+
 ```
 
 ## 📝 注意事项
